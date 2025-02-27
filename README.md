@@ -1,6 +1,5 @@
 **Dashboard Link** 
-https://public.tableau.com/app/profile/shardhanjali.nag/viz/ElectricVehicleAnalysis_17402303516800/Electricvehicl
- eanalysis 
+https://public.tableau.com/app/profile/shardhanjali.nag/viz/ElectricVehicleAnalysis_17402303516800/Electricvehicleanalysis
 
 **Summary :**
 The Electric Vehicle Analysis Dashboard provides a comprehensive overview of electric vehicle adoption, distribution, and 
